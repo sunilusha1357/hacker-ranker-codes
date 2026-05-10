@@ -1,0 +1,6 @@
+int(input(a))
+int=a
+if(a<12):
+    print("no")
+else:
+    print("yes")
