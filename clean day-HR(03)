@@ -1,0 +1,4 @@
+rainy, cloudy = map(int, input().split())
+days = 7
+remaining = days - (rainy + cloudy)
+print(remaining)
