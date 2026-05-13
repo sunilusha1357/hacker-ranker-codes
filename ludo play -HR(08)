@@ -1,0 +1,7 @@
+t=int(input())
+for t in range(t)
+a = int(input())
+if(a==0):
+  print("yes")
+else:
+  print("no")
