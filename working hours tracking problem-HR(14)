@@ -1,0 +1,6 @@
+t=int(input())
+for t in range(t):
+ X,Y=map(int,input().split())
+ hours=(Y-X)
+ print(hours)
+     
