@@ -1,0 +1,7 @@
+t = int(input())
+for t in range(t):
+    X,H=map(int,input().split())
+    if(X<H):
+     print("NO")
+    else:
+     print("YES")
