@@ -1,0 +1,4 @@
+t = int(input())
+for t in range(t):
+    X,Y=map(int,input().split())
+    print((10*X)+(90*Y))
