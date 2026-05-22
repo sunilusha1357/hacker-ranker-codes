@@ -1,0 +1,7 @@
+t=int(input())
+for t in range(t):
+    N,X=map(int,input().split())
+    if (N<=X):
+        print("YES")
+    else:
+        print("NO")
