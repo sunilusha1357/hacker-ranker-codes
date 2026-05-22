@@ -1,0 +1,9 @@
+t = int(input())
+for t in range(t):
+    X,Y=map(int,input().split())
+    if(Y>X):
+     print("PROFIT")
+    elif(Y==X):
+     print("NEUTRAL")
+    else:
+     print("LOSS")
