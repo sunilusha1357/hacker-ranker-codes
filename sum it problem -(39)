@@ -1,0 +1,7 @@
+t = int(input())
+for t in range(t):
+    X,Y,N=map(int,input().split())
+    if(X+Y==N):
+        print("YES")
+    else:
+        print("NO")
